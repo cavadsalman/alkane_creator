@@ -1,5 +1,8 @@
 Write the number of carbon atom and the get alkane formule with some features.
-Note: Language is azerbijani
+<b>
+<br>Note: Language is azerbijani
+<br>Note: This script is so older and I store it for nostalgie reasons
+</b>
 <br>
 ### Usage
 ---
@@ -24,4 +27,3 @@ Polyar rabitelerin sayi: 26
 Qeyri polyar rabitelerin sayi: 11
 Molekul kutləsi: 170
 ```
-<b>Note: This script is so older and I store it for nostalgie reasons</b>
