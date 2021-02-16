@@ -24,3 +24,4 @@ Polyar rabitelerin sayi: 26
 Qeyri polyar rabitelerin sayi: 11
 Molekul kutləsi: 170
 ```
+<b>Note: This script is so older and I store it for nostalgie reasons</b>
